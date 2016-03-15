@@ -1,0 +1,7 @@
+
+
+name: parse.xml
+version: master
+inc: ./src
+src: ./src
+lang: cpp
